@@ -74,7 +74,7 @@ button:hover {
 
 .resultado {
   user-select: none;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(169, 167, 179);
   display: flex;
   margin-top: 0px;
   align-items: center;
