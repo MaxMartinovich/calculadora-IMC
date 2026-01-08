@@ -1,8 +1,8 @@
 # Calculadora IMC
 
 ## Descrição
-Aplicação simples para calcular o IMC desenvolvida em HTML, CSS e JS.
-O aplicativo permite que o usuário adicione nome, peso e altura e ao clicar no botão o site já calcula
+Aplicação simples para calcular o IMC
+O aplicativo permite que o usuário adicione nome, peso e altura e ao clicar no botão o site já realiza o calculo
 
 ## Tecnologias utilizadas
 - HTML
