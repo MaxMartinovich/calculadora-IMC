@@ -1,0 +1,17 @@
+.container {
+  background-color: rgb(21, 169, 254);
+  height: 100vh;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.input {
+  background-color: yellow;
+  width: 300px;
+  height: 150px;
+  display: relative;
+  justify-content: center;
+  align-items: center;
+}
