@@ -15,7 +15,7 @@ main {
 }
 
 .container {
-  background-image: url("teste.webp");
+  background-image: url("fundo-abstrato-escuro_1048-1920.avif");
   display: flex;
   flex-direction: column;
   width: 400px;
@@ -27,7 +27,7 @@ main {
 }
 
 .titulo {
-  color: rgb(31, 136, 172);
+  color: rgb(110, 211, 245);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,7 +41,7 @@ main {
 }
 
 .input {
-  color: rgb(31, 136, 172);
+  color: rgb(110, 211, 245);
   align-items: center;
   display: flex;
   width: 300px;
@@ -58,7 +58,7 @@ main {
 .input label {
   width: 80px;
   text-align: right;
-  color: rgb(31, 136, 172);
+  color: rgb(110, 211, 245);
   font-weight: bold;
   font-size: 20px;
   font-family: "Poppins", sans-serif;
@@ -102,7 +102,7 @@ button:hover {
   height: 100px;
   border-radius: 5px;
   font-size: 16px;
-  color: rgb(31, 136, 172);
+  color: rgb(3, 5, 6);
   padding: 20px;
   box-sizing: border-box;
 }
